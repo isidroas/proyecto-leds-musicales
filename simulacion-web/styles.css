@@ -1,0 +1,14 @@
+
+#contenedor1{
+/*	border-radius: 50%;*/
+	border-color: black;
+	border-width: thick;
+	border-style: solid;
+	padding: 5% 0;
+}
+#contenedor2{
+/*	border-radius: 50%;*/
+	border-color: black;
+	border-width: thick;
+	border-style: solid;
+}
